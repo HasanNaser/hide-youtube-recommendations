@@ -1,5 +1,6 @@
+ 
 
-#Hide YouTube  Homepage Related Videos Feed, Recommended Videos, Comments 
+  # Hide YouTube Homepage Related Videos Feed, Recommended Videos, Comments 
 
   A browser extension to remove YouTube recommended sidebar,
   user comments, homepa  ge related videos feed, 
