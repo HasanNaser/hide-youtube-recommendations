@@ -11,6 +11,6 @@
   2- Press “Load unpacked extension…” and choose the version-number folder inside the desired extension folder.
     
   <img src="3.jpg" />
-<img src="1.jpg" width="400"/> <img src="2.jpg"  width="400" />
+<img src="1.jpg"  /> <img src="2.jpg"  />
 
 
