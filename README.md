@@ -9,11 +9,9 @@
  
   
    ## Chrome browser
-  
-  1- Go to <code> chrome://extensions </code>
-  in the target Chrome browser and enable "Developer mode" by the checkbox in the upper right.
- 
-  2- Press “Load unpacked extension…” and choose the chrome_extension folder 
+   Install it from 
+   <a href="https://chrome.google.com/webstore/detail/hide-youtube-reccomendati/kehfeffkkeikicjiehddmbmabmakfdff/" target="_blank">Chrome Web Store </a>
+   
   
   
    ## Opera browser
