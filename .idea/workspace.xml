@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73f2f869-6d57-4598-9270-4723f531477e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome_extension/chrome_extension.zip" beforeDir="false" afterPath="$PROJECT_DIR$/chrome_extension/chrome_extension.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chrome_extension/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/chrome_extension/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opera_extension/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/opera_extension/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <updated>1608451519502</updated>
       <workItem from="1608451523405" duration="460000" />
       <workItem from="1608742249318" duration="305000" />
-      <workItem from="1611683173465" duration="174000" />
+      <workItem from="1611683173465" duration="1157000" />
     </task>
     <servers />
   </component>
