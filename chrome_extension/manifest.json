@@ -3,7 +3,7 @@
 
   "version": "1.0",
 
-  "description": "A browser extension to remove YouTube homepage related videos feed, recommended sidebar, user comments. it is usefull to help you focus in your work",
+  "description": "Remove YouTube homepage related videos feed, recommended sidebar, user comments. it is usefull to help you focus in your work",
 
   "manifest_version": 2,
   "incognito": "split",
@@ -12,9 +12,7 @@
     "default_popup": "index.html"
   },
 
-  "permissions": [
-    "activeTab"
-    ,"storage"
+  "permissions": [ "storage"
 
   ],
   "content_scripts": [
